@@ -1,0 +1,5 @@
+1. Crea un repositorio en github.com y sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+2. Ve a la pestaña Actions -> Build APK -> espera ~5 min -> descarga el artefacto MiLauncher-apk (app-debug.apk).
+3. Pasa el APK al TV box (USB o adb install app-debug.apk).
+4. Ajustes -> Aplicaciones -> Aplicaciones predeterminadas -> Inicio -> Mi Launcher.
+Tecla MENU del control = abrir Ajustes.
